@@ -1,0 +1,22 @@
+{
+  "name": "dockernode_sample",
+  "version": "1.0.0",
+  "description": "Sample application to showcase Node-ChakraCore running in Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalinfinity/node-chakracore-docker-sample.git"
+  },
+  "author": "Hitesh Kanwathirtha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalinfinity/node-chakracore-docker-sample/issues"
+  },
+  "homepage": "https://github.com/digitalinfinity/node-chakracore-docker-sample#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
